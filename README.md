@@ -1,20 +1,24 @@
 # Info 📕
 
-Y2K.exe is my first GDI-Trojan developed for Windows XP. 
+Y2K.exe is my first Malware and i developed for Windows XP.
 
 I spend 16 days working on it and for my first Malware, i like it very much.
 
 
-# Execution ⚙️
+# Execution Tips ⚙️
 
-* If you execute the malware, he only blocks Task Manager, Cmd, Win + R and you cannot Shutdown and Log Off the computer. You can use registry, so you know what do...
+* Normal execution: Task Manager, Cmd, Win + R, Shutdown and Log Off will be blocked.
 
-* But if the malware was executed in the day January 1, 2000 the payloads will start. Relax and wait...
+* January 1, 2000: Relax and wait...
 
-* EasterEgg in January 2, 2000 🤡
+* January 2, 2000: Easter Egg 🤡.
 
 
 # Warning ☣️
 
-Please, don't use this software for malicious purposes. My objective is ONLY study Bytebeats and GDI.
+I'm not responsible for what you will do with this software.
+
+If your PC explodes in your front resulting on a nuclear war that will destroy the planet, i will not care 👍
+
+# Enjoy ...
 
